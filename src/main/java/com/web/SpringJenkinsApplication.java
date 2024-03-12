@@ -18,4 +18,5 @@ public class SpringJenkinsApplication {
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 	}
 
+	
 }
